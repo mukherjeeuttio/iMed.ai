@@ -39,7 +39,7 @@ export default function Home() {
         <div className={styles.heroRight}>
             <Image src={DoctorImage} alt="DoctorImage" className={styles.doctor}></Image>
         </div>
-      </div>
+      </div>``
     </div>
   );
 }
